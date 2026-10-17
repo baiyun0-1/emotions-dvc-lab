@@ -9,3 +9,5 @@ mlruns/
 .dvc/cache/
 .DS_Store
 *.tmp
+mlflow.db
+/data
